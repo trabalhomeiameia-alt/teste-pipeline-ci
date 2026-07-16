@@ -1,6 +1,6 @@
 def somar(a, b):
     """Retorna a soma de dois números."""
-    return a - b
+    return a + b
 
 
 def dividir(a, b):
